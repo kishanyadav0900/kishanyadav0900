@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishanyadav0900
+- 👋 Hi, I’m @kishanyadav Yadav
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Bachelors in Technology IT
 - 💞️ I’m looking to collaborate on ML projects
